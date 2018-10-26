@@ -1,0 +1,4 @@
+#Fri Oct 26 12:50:11 KST 2018
+base.0=C\:\\Users\\beaqo\\Documents\\GitHub\\themelab-sample8\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.kakao.talk.v2.theme
+ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:5:5-63
+	android:name
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:5:22-60
+application
+ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:7:5-27:19
+	android:label
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:8:9-35
+meta-data#android.max_aspect
+ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:12:9-14:35
+	android:value
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:14:13-32
+	android:name
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:13:13-46
+activity#com.kakao.talk.theme.apeach.MainActivity
+ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:16:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:19:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:21:13-46
+	android:launchMode
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:18:13-43
+	android:theme
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+		ADDED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\beaqo\Documents\GitHub\themelab-sample8\src\main\AndroidManifest.xml
